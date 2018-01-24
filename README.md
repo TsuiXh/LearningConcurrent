@@ -1,0 +1,2 @@
+# LearningConcurrent
+通过ExecutorService中的线程池执行任务时，线程池中的线程操作的变量不可以通过对外暴露方法来使线程池外的线程访问到数据，待解决。
